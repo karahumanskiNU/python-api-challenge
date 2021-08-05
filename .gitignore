@@ -6,6 +6,9 @@ __pycache__/
 # C extensions
 *.so
 
+#Hidden API Key
+.*/api_keys
+
 # Distribution / packaging
 .Python
 build/
