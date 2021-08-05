@@ -7,7 +7,7 @@ __pycache__/
 *.so
 
 #Hidden API Key
-.*/api_keys
+.*/api_keys.py
 
 # Distribution / packaging
 .Python
